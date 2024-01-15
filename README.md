@@ -26,9 +26,6 @@ Implementasi kompresi teks menggunakan algoritma Huffman dalam konteks sistem mu
 ## Keterbatasan
 Program ini hanya mendukung teks ASCII. Jika teks mengandung karakter non-ASCII, program akan memberikan peringatan dan menghentikan eksekusi.
 
-## Kontribusi
-Silakan kontribusi dengan mengirimkan _pull request_. Untuk perubahan besar, buat _issue_ terlebih dahulu untuk mendiskusikannya.
-
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License] - lihat berkas [LICENSE](LICENSE).
 
